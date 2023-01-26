@@ -61,10 +61,11 @@
     font-size: 25px;
     flex: 1 1 50%;
   }
-.other {
-    text-align: center;
-    font-size: 25px;
-    flex: auto;
-  }
+
+.portfolio{
+  margin-top: 10%;
+  text-align:center
+
+}
 
 
